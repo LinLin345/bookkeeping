@@ -9,4 +9,6 @@ while True:
     product.append(p)
 print(product)
 
-    
+# for loop to find every one 
+for p in product:
+    print(p)
