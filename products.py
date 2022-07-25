@@ -11,4 +11,4 @@ print(product)
 
 # for loop to find every one 
 for p in product:
-    print(p)
+    print("The price of ",p[0],"is", p[1])
